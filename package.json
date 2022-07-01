@@ -1,0 +1,29 @@
+{
+  "name": "w-jsc-502-mar-2-1-irc-rayane.sahraoui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechWebAcademiePromo2023/W-JSC-502-MAR-2-1-irc-rayane.sahraoui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpitechWebAcademiePromo2023/W-JSC-502-MAR-2-1-irc-rayane.sahraoui/issues"
+  },
+  "homepage": "https://github.com/EpitechWebAcademiePromo2023/W-JSC-502-MAR-2-1-irc-rayane.sahraoui#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "jquery": "^3.6.0",
+    "moment": "^2.29.3",
+    "socket.io": "^4.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
